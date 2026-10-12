@@ -1,4 +1,4 @@
-**Author:** <<Jalen Pride>>
+**Author:** Jalen Pride
 **Course:** CAP 4620 Artificial Intelligence, Florida A&M University 
 **Date:** <<10/06/2026>>
 **Environment:** NRP JupyterHub, Python 3 (ipykernel)
